@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://owaejaira.ezoe.ru/sitemap.xml
